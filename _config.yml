@@ -4,6 +4,7 @@ theme: minima
 title: 自我疗愈
 description: 程序员医学笔记
 lang: zh-CN
+author: cloudsmithy
 
 # 顶部导航显示的页面
 header_pages:
@@ -11,6 +12,11 @@ header_pages:
 
 # minima 2.5.1 footer 社交链接（扁平写法）
 github_username: cloudsmithy
+
+# minima 2.5.1 站点设置
+minima:
+  # 中文日期格式，如 2026年07月22日
+  date_format: "%Y年%m月%d日"
 
 plugins:
   - jekyll-feed

@@ -1,8 +1,8 @@
 # 使用 GitHub Pages 原生捆绑的 minima（当前为 2.5.1），无需 remote_theme
 theme: minima
 
-title: 医院用药记录
-description: 自我疗愈
+title: 自我疗愈
+description: 程序员医学笔记
 lang: zh-CN
 
 # 顶部导航显示的页面

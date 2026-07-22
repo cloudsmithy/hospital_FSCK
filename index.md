@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 医院用药记录
+title: 医院用药记录 - 自我疗愈
 ---
 ### 骨科
 

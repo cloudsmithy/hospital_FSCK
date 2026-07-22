@@ -1,5 +1,5 @@
+# 使用 GitHub Pages 原生捆绑的 minima（当前为 2.5.1），无需 remote_theme
 theme: minima
-remote_theme: "jekyll/minima"
 
 title: 医院用药记录
 description: 自我疗愈
@@ -9,10 +9,8 @@ lang: zh-CN
 header_pages:
   - about.md
 
-# minima footer / 社交链接
-minima:
-  social_links:
-    github: cloudsmithy
+# minima 2.5.1 footer 社交链接（扁平写法）
+github_username: cloudsmithy
 
 plugins:
   - jekyll-feed

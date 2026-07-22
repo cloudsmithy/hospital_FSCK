@@ -1,3 +1,19 @@
 theme: minima
+remote_theme: "jekyll/minima"
+
 title: 医院用药记录
-description: 医院用药记录 - 自我疗愈
+description: 自我疗愈
+lang: zh-CN
+
+# 顶部导航显示的页面
+header_pages:
+  - about.md
+
+# minima footer / 社交链接
+minima:
+  social_links:
+    github: cloudsmithy
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
